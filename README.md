@@ -1,2 +1,1 @@
-# tindog
-Meet new hotdogs
+TinDog Starting Files
